@@ -1,0 +1,8 @@
+/node_modules
+/bower_components
+
+# Avoid pushing WebStorm configuration
+.idea
+
+# Avoid env configuration
+.env
